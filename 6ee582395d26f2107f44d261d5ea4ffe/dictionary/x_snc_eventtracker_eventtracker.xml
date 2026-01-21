@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="83399eb55d66f2107f44d261d5ea4f32" extends="task" label="eventTracker" max_length="40" name="x_snc_eventtracker_eventtracker" type="collection">
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
+    </element>
+</database>
